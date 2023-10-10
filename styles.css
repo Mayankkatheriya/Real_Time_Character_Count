@@ -13,7 +13,7 @@ body{
     min-height: 100vh;
     /* background-image: linear-gradient(to right, #ffecd2 20%, #fcb69f 100%); */
     background-image:  repeating-radial-gradient(circle at 0 0, transparent 0, #fcb69f 100px), repeating-linear-gradient(#ffecd2, #a4a68e);
-    background-color: #fcb69f;
+    background-color: #f8906d;
 }
 .container{
     width: 100%;
