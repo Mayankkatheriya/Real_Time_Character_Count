@@ -82,7 +82,7 @@ span{
 
 }
 span:hover {
-    transform: scale(2) translateY(-4px);
+    font-size: 3rem;
 }
 h4{
     font-size: 0.6rem;
